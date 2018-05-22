@@ -1,0 +1,67 @@
+#Pegar 1 item TM1 e percorrer subset SAP--------------------------------------------------------------------------------
+
+def matchSPA_X_TM1_Lines(arSAPInfo,arTM1Info):
+
+    #get TM1 Item to compare to SAP
+    for eachTM1Item in arTM1Info:
+        sPEP = eachTM1Item.PEP.split('.')[0].strip()
+        if len(sPEP) > 0:
+            arSubSetSAP = getSubSetSAP(sPEP,arSAPInfo)
+            arImprovedTM1Items, arImprovedSAPItems = ImproveListInformation(eachTM1Item,arSubSetSAP)
+            matchCorrespondece(eachTM1Item,arImprovedTM1Items,arSubSetSAP)
+            #CheckMatch(eachTM1Item,arSubSetSAP)
+
+def CheckMatch(eachTM1Item,arSubSetSAP):
+
+    if len(arSubSetSAP) > 0: #achou alguma correspondencia
+        print'Existe Correspondencia para o PEP: {}'.format(eachTM1Item.PEP)
+        if len(arSubSetSAP) == 1: #encontrou apenas 1 correspondecia
+            print'Existe apenas uma Correspondencia para o PEP: {}'.format(eachTM1Item.PEP)
+            print eachTM1Item
+            print len(arSubSetSAP)
+        else:
+            print'Existe mais de uma  Correspondencia para o PEP: {}'.format(eachTM1Item.PEP)
+
+def getSubSetSAP(sPEPTM1,arSAPInfo):
+
+    arSubSet = []
+    class subSetSAP:
+        sPEPSAP=''
+        sDescricaoSAP=''
+
+    for eachSAPintem in arSAPInfo:
+        arEachSAPItem = eachSAPintem.Descricao.split('-')
+        objSUBSet = subSetSAP()
+        if len(arEachSAPItem) > 1:
+            objSUBSet.sPEPSAP = arEachSAPItem[0].strip().split(".")[0]
+            objSUBSet.sDescricaoSAP = arEachSAPItem[1].strip().decode('cp1252')
+            if objSUBSet.sPEPSAP == sPEPTM1:
+                arSubSet.append(objSUBSet)
+
+    return arSubSet
+
+def matchCorrespondece(objPEPTM1,arWordsTM1, arSUBSetSAP):
+
+    arMatchedValues = []
+    for eachSubSetItem in arSUBSetSAP:
+        arWordsSAP = eachSubSetItem.sDescricaoSAP.split(' ')
+        arMatch = set(arWordsTM1) & set(arWordsSAP)
+        arMatchedValues.append(objPEPTM1.Descricao + '|###|' + eachSubSetItem.sDescricaoSAP + '|###|' + str(len(arMatch)) + '\n')
+
+    SaveFile(arMatchedValues)
+
+
+# def ImproveListInformation(TM1Item, arSubSetSAP):
+#
+#     jsonSynonyms = json.loads(open('Dados/Sinonimos.json').read())
+#     arTM1ItemWords = []
+#     arTM1ItemWords = TM1Item.Descricao.split(' ')
+#
+#     sTM1Item = TM1Item.Descricao
+#     for eachSynonym in jsonSynonyms["entity_synonyms"]:
+#         if eachSynonym["value"] in sTM1Item:
+#             for eachNewSynonym in eachSynonym['synonyms']:
+#                 arTM1ItemWords.append(eachNewSynonym)
+
+
+    # return arTM1ItemWords, arSubSetSAP

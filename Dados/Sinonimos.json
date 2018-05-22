@@ -1,0 +1,3427 @@
+{
+  "entity_synonyms": [
+      {
+ "value": "SOFTWARE",       
+"synonyms":["SW"]
+},
+      {
+ "value": "MANUTENÇÕES EVOLUTIVAS",       
+"synonyms":["MES"]
+},
+      {
+ "value": "MANUTENÇÃO",       
+"synonyms":["MANU"]
+},
+      {
+ "value": "FINANCEIROS",       
+"synonyms":["FINANCE"]
+},
+      {
+ "value": "LICENÇA",       
+"synonyms":["LICENCA"]
+},
+      {
+ "value": "AMS",       
+"synonyms":["A.M.S."]
+},
+      {
+ "value": "A.M.S.",       
+"synonyms":["AMS"]
+},
+      {
+ "value": "COMPENSAÇÃO",       
+"synonyms":["COMPENSAÇÃ"]
+},
+      {
+ "value": "DESPESA",       
+"synonyms":["DESP"]
+},
+      {
+ "value": "TRANSFERENCIA",       
+"synonyms":["TRANSF."]
+},
+      {
+ "value": "PROVISÃO",       
+"synonyms":["PROV."]
+},
+      {
+ "value": "TELEPRESENÇA",       
+"synonyms":["TELEPRESENCE"]
+},
+      {
+ "value": "E-FORMS",       
+"synonyms":["E-FORMES"]
+},
+      {
+ "value": "IMPRESSÃO",       
+"synonyms":["IMPRESSAO"]
+},
+      {
+ "value": "30B1200.4",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1238.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1286.2",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1286.3",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1276.5",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1293.4",       
+"synonyms":["SEP"]
+},
+      {
+ "value": "PB1293.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1293.1",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1330.4",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1330.3",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1330.2",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1525.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1541.2",       
+"synonyms":["HEAD"]
+},
+      {
+ "value": "PB1541.3",       
+"synonyms":["HEAD"]
+},
+      {
+ "value": "PB1593.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1606.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "30B1200.1",       
+"synonyms":[""]
+},
+      {
+ "value": "30B1200.2",       
+"synonyms":[""]
+},
+      {
+ "value": "30B1200.3",       
+"synonyms":[""]
+},
+      {
+ "value": "30Q1203.2",       
+"synonyms":[""]
+},
+      {
+ "value": "30Q1203.1",       
+"synonyms":[""]
+},
+      {
+ "value": "30Q1206.2",       
+"synonyms":[""]
+},
+      {
+ "value": "30Q1206.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1201.2",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1201.3",       
+"synonyms":["T-SYSTEMS"]
+},
+      {
+ "value": "PB1201.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1202.2",       
+"synonyms":["UNISYS"]
+},
+      {
+ "value": "PB1202.3",       
+"synonyms":["XRT"]
+},
+      {
+ "value": "PB1202.4",       
+"synonyms":["AD SOLUTIONS"]
+},
+      {
+ "value": "PB1203.2",       
+"synonyms":["SEMPLICE E NIAGARA + TCC ESSBASE"]
+},
+      {
+ "value": "PB1203.3",       
+"synonyms":["SQUADRA"]
+},
+      {
+ "value": "PB1203.4",       
+"synonyms":["BH FOX"]
+},
+      {
+ "value": "PB1203.5",       
+"synonyms":["TECHEDGE"]
+},
+      {
+ "value": "PB1203.7",       
+"synonyms":["AVALARA"]
+},
+      {
+ "value": "PB1203.8",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1203.30",       
+"synonyms":["TECHEDGE"]
+},
+      {
+ "value": "PB1203.31",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1203.32",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1203.33",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1203.34",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1204.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1204.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1204.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1204.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1204.6",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1204.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1207.2",       
+"synonyms":["DB2 E WEBSPHERE"]
+},
+      {
+ "value": "PB1207.3",       
+"synonyms":["NODES"]
+},
+      {
+ "value": "PB1208.53",       
+"synonyms":["JFOX"]
+},
+      {
+ "value": "PB1208.52",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1208.51",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1208.50",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1208.4",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1208.7",       
+"synonyms":["BHTEC"]
+},
+      {
+ "value": "PB1208.10",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1208.18",       
+"synonyms":["TBD"]
+},
+      {
+ "value": "PB1208.47",       
+"synonyms":["DEALERNET"]
+},
+      {
+ "value": "PB1209.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1209.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1209.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1209.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1209.6",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1209.7",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1209.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1212.2",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1212.3",       
+"synonyms":["TECHEDGE"]
+},
+      {
+ "value": "PB1212.4",       
+"synonyms":["TECHEDGE"]
+},
+      {
+ "value": "PB1212.6",       
+"synonyms":["CASA DE SW"]
+},
+      {
+ "value": "PB1213.18",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1213.17",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1213.16",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1213.15",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.14",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.13",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.2",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.4",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.7",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.9",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.10",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1213.12",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1214.2",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1214.3",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1214.1",       
+"synonyms":["TECHVALUE"]
+},
+      {
+ "value": "PB1215.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1216.2",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1216.3",       
+"synonyms":["SMARTTECH"]
+},
+      {
+ "value": "PB1216.4",       
+"synonyms":["ALTAIR ENGINEERING"]
+},
+      {
+ "value": "PB1216.5",       
+"synonyms":["CD-ADAPCO"]
+},
+      {
+ "value": "PB1216.6",       
+"synonyms":["OPENCADD"]
+},
+      {
+ "value": "PB1216.7",       
+"synonyms":["ETAS"]
+},
+      {
+ "value": "PB1216.8",       
+"synonyms":["GAMMA"]
+},
+      {
+ "value": "PB1216.9",       
+"synonyms":["AVL LIST"]
+},
+      {
+ "value": "PB1216.10",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1216.11",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1216.12",       
+"synonyms":["TASS HQ"]
+},
+      {
+ "value": "PB1216.13",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1216.14",       
+"synonyms":["BRUEL E KJAER"]
+},
+      {
+ "value": "PB1216.15",       
+"synonyms":["DASSAULT"]
+},
+      {
+ "value": "PB1216.16",       
+"synonyms":["SMARTTECH INC."]
+},
+      {
+ "value": "PB1216.17",       
+"synonyms":["CIM TEAM"]
+},
+      {
+ "value": "PB1216.18",       
+"synonyms":["OPTIS"]
+},
+      {
+ "value": "PB1216.19",       
+"synonyms":["MSC BRASIL"]
+},
+      {
+ "value": "PB1216.20",       
+"synonyms":["AVL LIST"]
+},
+      {
+ "value": "PB1216.21",       
+"synonyms":["ENGINEERING SIMULATION"]
+},
+      {
+ "value": "PB1216.22",       
+"synonyms":["AUTOFORM"]
+},
+      {
+ "value": "PB1216.23",       
+"synonyms":["VIRTUALCAE"]
+},
+      {
+ "value": "PB1216.24",       
+"synonyms":["HBM"]
+},
+      {
+ "value": "PB1216.25",       
+"synonyms":["A2MAC1"]
+},
+      {
+ "value": "PB1216.26",       
+"synonyms":["DIGICADE"]
+},
+      {
+ "value": "PB1216.27",       
+"synonyms":["ALTIA INC."]
+},
+      {
+ "value": "PB1216.28",       
+"synonyms":["ENGYS"]
+},
+      {
+ "value": "PB1216.29",       
+"synonyms":["MENTOR GRAPHICSWORLDWIDE"]
+},
+      {
+ "value": "PB1216.30",       
+"synonyms":["VI GRADE"]
+},
+      {
+ "value": "PB1216.31",       
+"synonyms":["AUTOFORM"]
+},
+      {
+ "value": "PB1216.32",       
+"synonyms":["CREATIVE"]
+},
+      {
+ "value": "PB1216.33",       
+"synonyms":["ADVANCED"]
+},
+      {
+ "value": "PB1216.34",       
+"synonyms":["MAPDATA"]
+},
+      {
+ "value": "PB1216.35",       
+"synonyms":["MKSPEC"]
+},
+      {
+ "value": "PB1216.36",       
+"synonyms":["SYMTAVISION"]
+},
+      {
+ "value": "PB1216.37",       
+"synonyms":["MAPDATA"]
+},
+      {
+ "value": "PB1216.38",       
+"synonyms":["ALTAIR ENGINEERING"]
+},
+      {
+ "value": "PB1216.39",       
+"synonyms":["VI GRADE"]
+},
+      {
+ "value": "PB1216.40",       
+"synonyms":["CD-ADAPCO"]
+},
+      {
+ "value": "PB1216.41",       
+"synonyms":["TECHNOSIM ENGENHARIA"]
+},
+      {
+ "value": "PB1216.42",       
+"synonyms":["SMARTTECH"]
+},
+      {
+ "value": "PB1216.43",       
+"synonyms":["AVL LIST"]
+},
+      {
+ "value": "PB1216.44",       
+"synonyms":["CONTECS ENGINEERING"]
+},
+      {
+ "value": "PB1216.45",       
+"synonyms":["SYNOPSYS"]
+},
+      {
+ "value": "PB1216.46",       
+"synonyms":["SYNOPSYS"]
+},
+      {
+ "value": "PB1216.47",       
+"synonyms":["DASSAULT"]
+},
+      {
+ "value": "PB1216.48",       
+"synonyms":["SMARTTECH INC."]
+},
+      {
+ "value": "PB1216.49",       
+"synonyms":["DIGICADE"]
+},
+      {
+ "value": "PB1216.50",       
+"synonyms":["EDASHOP INC"]
+},
+      {
+ "value": "PB1216.51",       
+"synonyms":["SMARTTECH INC."]
+},
+      {
+ "value": "PB1216.52",       
+"synonyms":["AUTONEUM"]
+},
+      {
+ "value": "PB1216.53",       
+"synonyms":["OPENCADD"]
+},
+      {
+ "value": "PB1216.54",       
+"synonyms":["SMARTTECH INC."]
+},
+      {
+ "value": "PB1216.55",       
+"synonyms":["TASS HQ"]
+},
+      {
+ "value": "PB1216.56",       
+"synonyms":["AUTOFORM"]
+},
+      {
+ "value": "PB1216.57",       
+"synonyms":["AUTOFORM"]
+},
+      {
+ "value": "PB1216.58",       
+"synonyms":["SMARTTECH INC."]
+},
+      {
+ "value": "PB1216.59",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1216.60",       
+"synonyms":["OPENCADD"]
+},
+      {
+ "value": "PB1216.61",       
+"synonyms":["MSC BRASIL"]
+},
+      {
+ "value": "PB1216.62",       
+"synonyms":["OPENCADD"]
+},
+      {
+ "value": "PB1216.63",       
+"synonyms":["ESI GROUP"]
+},
+      {
+ "value": "PB1216.64",       
+"synonyms":["DASSAULT"]
+},
+      {
+ "value": "PB1216.65",       
+"synonyms":["THINKBOX"]
+},
+      {
+ "value": "PB1216.66",       
+"synonyms":["LUXION"]
+},
+      {
+ "value": "PB1216.1",       
+"synonyms":["CAIRUS"]
+},
+      {
+ "value": "PB1217.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1217.3",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1217.4",       
+"synonyms":["T-SYSTEMS"]
+},
+      {
+ "value": "PB1217.5",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.6",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.7",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.8",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.9",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1217.10",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.11",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1217.12",       
+"synonyms":["FRAMEWORK"]
+},
+      {
+ "value": "PB1217.13",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.14",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.15",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1217.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1218.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.6",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.7",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.8",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.9",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.10",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.11",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.12",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.13",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.14",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.15",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.16",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.17",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.18",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.19",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.20",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.21",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.22",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.23",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.24",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.25",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.26",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.27",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.28",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.29",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1218.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1219.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1221.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1222.1",       
+"synonyms":["AÇÃO INFORMÁTICA"]
+},
+      {
+ "value": "PB1223.2",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1223.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1225.6",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1225.2",       
+"synonyms":["GARTNER"]
+},
+      {
+ "value": "PB1225.3",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1225.1",       
+"synonyms":["GARTNER"]
+},
+      {
+ "value": "PB1226.16",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PRB1226.15",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1226.13",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1226.2",       
+"synonyms":["SERVICENOW"]
+},
+      {
+ "value": "PB1226.3",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1227.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1227.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1227.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1227.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1228.2",       
+"synonyms":["CAMPELLO"]
+},
+      {
+ "value": "PB1228.3",       
+"synonyms":["CAMPELLO"]
+},
+      {
+ "value": "PB1229.2",       
+"synonyms":["ZEBRA"]
+},
+      {
+ "value": "PB1229.1",       
+"synonyms":["ZEBRA"]
+},
+      {
+ "value": "PB1230.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1231.19",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1231.18",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1231.17",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1231.16",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1231.2",       
+"synonyms":["JDA"]
+},
+      {
+ "value": "PB1231.3",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1231.4",       
+"synonyms":["DEUTSCHE MTM"]
+},
+      {
+ "value": "PB1231.5",       
+"synonyms":["MAPDATA TECNOLOGIA INF. E COM. LTDA"]
+},
+      {
+ "value": "PB1231.6",       
+"synonyms":["HSI"]
+},
+      {
+ "value": "PB1231.7",       
+"synonyms":["ZEBRA"]
+},
+      {
+ "value": "PB1231.8",       
+"synonyms":["ZEBRA"]
+},
+      {
+ "value": "PB1231.9",       
+"synonyms":["SOLVEIT"]
+},
+      {
+ "value": "PB1231.10",       
+"synonyms":["DASSAULT"]
+},
+      {
+ "value": "PB1231.11",       
+"synonyms":["EPLAN"]
+},
+      {
+ "value": "PB1231.12",       
+"synonyms":["EDP4YOU S.R.L"]
+},
+      {
+ "value": "PB1231.13",       
+"synonyms":["MAPDATA TECNOLOGIA INF. E COM. LTDA"]
+},
+      {
+ "value": "PB1231.14",       
+"synonyms":["ESI GROUP"]
+},
+      {
+ "value": "PB1231.15",       
+"synonyms":["EPLAN"]
+},
+      {
+ "value": "PB1231.1",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1232.18",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1232.2",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1232.3",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1232.4",       
+"synonyms":["ENGINEERING DO BRASIL"]
+},
+      {
+ "value": "PB1232.5",       
+"synonyms":["ENGINEERING DO BRASIL"]
+},
+      {
+ "value": "PB1232.6",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1232.7",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1232.8",       
+"synonyms":["FATOR M SISTEMAS"]
+},
+      {
+ "value": "PB1232.9",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1232.10",       
+"synonyms":["HSI"]
+},
+      {
+ "value": "PB1232.11",       
+"synonyms":["GTCON"]
+},
+      {
+ "value": "PB1232.12",       
+"synonyms":["LUMIAR SOFT"]
+},
+      {
+ "value": "PB1232.13",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1232.14",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1232.15",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1232.16",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1232.17",       
+"synonyms":["ENGINEERING DO BRASIL"]
+},
+      {
+ "value": "PB1232.1",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1233.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.6",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.7",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.8",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.9",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.10",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.11",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.12",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.13",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.14",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.15",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.16",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.17",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.18",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.19",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.20",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.21",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.22",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.23",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.24",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1233.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1234.1",       
+"synonyms":["FÁCIL INFORMÁTICA"]
+},
+      {
+ "value": "PB1235.1",       
+"synonyms":["FÁCIL INFORMÁTICA"]
+},
+      {
+ "value": "PB1236.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1237.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1238.2",       
+"synonyms":["SAS INSTITUTE"]
+},
+      {
+ "value": "PB1238.1",       
+"synonyms":["ATSEVEN"]
+},
+      {
+ "value": "PB1239.2",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1239.3",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1239.4",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1239.5",       
+"synonyms":["ASI DATAMYTE"]
+},
+      {
+ "value": "PB1239.1",       
+"synonyms":["ASI DATAMYTE"]
+},
+      {
+ "value": "PB1240.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.6",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.7",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.8",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.9",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.10",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.11",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.12",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.13",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.14",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.15",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.16",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.17",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.18",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1240.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1241.2",       
+"synonyms":["CH TECNOLOGIA"]
+},
+      {
+ "value": "PB1241.3",       
+"synonyms":["CH TECNOLOGIA"]
+},
+      {
+ "value": "PB1241.1",       
+"synonyms":["CH TECNOLOGIA"]
+},
+      {
+ "value": "PB1242.2",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1242.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1243.2",       
+"synonyms":["SÊNIOR"]
+},
+      {
+ "value": "PB1244.2",       
+"synonyms":["SÊNIOR"]
+},
+      {
+ "value": "PB1244.3",       
+"synonyms":["BHTEC"]
+},
+      {
+ "value": "PB1244.15",       
+"synonyms":["AVENUE CODE"]
+},
+      {
+ "value": "PB1244.16",       
+"synonyms":["SENIOR"]
+},
+      {
+ "value": "PB1244.17",       
+"synonyms":["SENIOR"]
+},
+      {
+ "value": "PB1245.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1247.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1248.3",       
+"synonyms":["EAM SISTEMAS"]
+},
+      {
+ "value": "PB1248.4",       
+"synonyms":["SAP"]
+},
+      {
+ "value": "PB1249.80",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1249.79",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1249.78",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1249.77",       
+"synonyms":["SQUADRA"]
+},
+      {
+ "value": "PB1249.76",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1249.75",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1249.74",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1249.4",       
+"synonyms":["DI2S"]
+},
+      {
+ "value": "PB1249.6",       
+"synonyms":["TCS"]
+},
+      {
+ "value": "PB1249.8",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1249.9",       
+"synonyms":["DI2S"]
+},
+      {
+ "value": "PB1249.12",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1249.13",       
+"synonyms":["TBD"]
+},
+      {
+ "value": "PB1249.22",       
+"synonyms":["SIM"]
+},
+      {
+ "value": "PB1249.23",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1249.24",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1249.40",       
+"synonyms":["RVC"]
+},
+      {
+ "value": "PB1249.48",       
+"synonyms":["DI2S"]
+},
+      {
+ "value": "PB1249.73",       
+"synonyms":["RVC"]
+},
+      {
+ "value": "PB1250.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.6",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.7",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.8",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.9",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.10",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.11",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.12",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.13",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.14",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.15",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.16",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1250.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1257.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1259.2",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1261.15",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1261.14",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1261.13",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1261.12",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1261.2",       
+"synonyms":["BIZMART"]
+},
+      {
+ "value": "PB1261.3",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1261.4",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1261.5",       
+"synonyms":["VENDRAMINI"]
+},
+      {
+ "value": "PB1261.7",       
+"synonyms":["EXCON"]
+},
+      {
+ "value": "PB1262.1",       
+"synonyms":["FAASA"]
+},
+      {
+ "value": "PB1263.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1266.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1266.3",       
+"synonyms":["TOCCATO"]
+},
+      {
+ "value": "PB1266.4",       
+"synonyms":["INGRAM / IBM"]
+},
+      {
+ "value": "PB1267.4",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1267.2",       
+"synonyms":["TBD"]
+},
+      {
+ "value": "PB1267.3",       
+"synonyms":["CORE SYNESIS"]
+},
+      {
+ "value": "PB1267.1",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1268.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1268.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1268.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1268.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1269.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1270.1",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1271.1",       
+"synonyms":["SAP"]
+},
+      {
+ "value": "PB1272.2",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1272.6",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1272.7",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1272.9",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1272.10",       
+"synonyms":["INVOICEWARE CONSULTORIA E DESENVOLVIMENTO LTDA."]
+},
+      {
+ "value": "PB1272.17",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1273.1",       
+"synonyms":["IVECO"]
+},
+      {
+ "value": "PB1274.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1274.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1274.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1274.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1275.2",       
+"synonyms":["BRASOFTWARE"]
+},
+      {
+ "value": "PB1276.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1276.3",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1277.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1278.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1278.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1278.4",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1278.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1279.10",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1279.9",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1279.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1279.3",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1279.4",       
+"synonyms":["UNIFY"]
+},
+      {
+ "value": "PB1279.5",       
+"synonyms":["LEVEL 3"]
+},
+      {
+ "value": "PB1279.6",       
+"synonyms":["DIVERSOS"]
+},
+      {
+ "value": "PB1279.7",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1279.8",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1279.1",       
+"synonyms":["UNIFY"]
+},
+      {
+ "value": "PB1280.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1280.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1280.4",       
+"synonyms":["NIC.BR"]
+},
+      {
+ "value": "PB1280.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1281.2",       
+"synonyms":["VIVO"]
+},
+      {
+ "value": "PB1281.3",       
+"synonyms":["DIVERSOS"]
+},
+      {
+ "value": "PB1281.4",       
+"synonyms":["DIVERSOS"]
+},
+      {
+ "value": "PB1281.5",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1281.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1282.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1282.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1282.4",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1282.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.4",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.5",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.6",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.7",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.8",       
+"synonyms":["EMBRATEL / GVT / BANCO FIDIS / OI"]
+},
+      {
+ "value": "PB1283.9",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.10",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.11",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.12",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1283.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1286.1",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1287.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1287.3",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1287.4",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1287.5",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1287.6",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1287.7",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1287.8",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1287.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1289.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1290.5",       
+"synonyms":["ORACLE"]
+},
+      {
+ "value": "PB1290.2",       
+"synonyms":["ORACLE"]
+},
+      {
+ "value": "PB1290.4",       
+"synonyms":["ARKADIN"]
+},
+      {
+ "value": "PB1291.29",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1291.2",       
+"synonyms":["TATA CONSULTANCY"]
+},
+      {
+ "value": "PB1291.3",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1291.4",       
+"synonyms":["TECHEDGE"]
+},
+      {
+ "value": "PB1291.7",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1291.9",       
+"synonyms":["STAR COMUNICAÇÃO"]
+},
+      {
+ "value": "PB1291.10",       
+"synonyms":["TECHEDGE"]
+},
+      {
+ "value": "PB1292.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1292.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1292.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1292.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1292.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1294.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1294.3",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1294.4",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1294.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1296.2",       
+"synonyms":["CENTRO RICERCHE FIAT"]
+},
+      {
+ "value": "PB1296.3",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1296.4",       
+"synonyms":["CENTRO RICERCHE FIAT"]
+},
+      {
+ "value": "PB1296.5",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1296.6",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1296.7",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1296.8",       
+"synonyms":["CENTRO RICERCHE FIAT"]
+},
+      {
+ "value": "PB1296.9",       
+"synonyms":["CENTRO RICERCHE FIAT"]
+},
+      {
+ "value": "PB1296.1",       
+"synonyms":["CENTRO RICERCHE FIAT"]
+},
+      {
+ "value": "PB1298.2",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1298.3",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1298.4",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1298.5",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1298.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1300.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1300.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1301.2",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1301.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1302.1",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1304.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1304.3",       
+"synonyms":["MANUTENÇÃO DE SALAS DE REUNIÃO"]
+},
+      {
+ "value": "PB1304.4",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1304.5",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1304.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1305.2",       
+"synonyms":["LEXMARK"]
+},
+      {
+ "value": "PB1305.3",       
+"synonyms":["XEROX"]
+},
+      {
+ "value": "PB1306.4",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1306.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1306.3",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1306.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1307.12",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1307.2",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1307.3",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1307.4",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1307.5",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1307.7",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1307.8",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1307.9",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1307.10",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1307.11",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1307.13",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1307.1",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1308.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1308.3",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1308.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1309.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1309.3",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1309.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1310.1",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1311.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1312.10",       
+"synonyms":["SAP DR AND TCAE"]
+},
+      {
+ "value": "PB1312.2",       
+"synonyms":["EMC"]
+},
+      {
+ "value": "PB1312.3",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1312.4",       
+"synonyms":["HP"]
+},
+      {
+ "value": "PB1312.5",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1312.7",       
+"synonyms":["LENOVO"]
+},
+      {
+ "value": "PB1312.8",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1312.9",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1312.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1313.2",       
+"synonyms":["BRASOFTWARE"]
+},
+      {
+ "value": "PB1313.4",       
+"synonyms":["WESTCON"]
+},
+      {
+ "value": "PB1313.5",       
+"synonyms":["ORACLE"]
+},
+      {
+ "value": "PB1313.6",       
+"synonyms":["IT-ONE"]
+},
+      {
+ "value": "PB1313.10",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1313.11",       
+"synonyms":["PRIMEUR"]
+},
+      {
+ "value": "PB1313.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1314.25",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1314.24",       
+"synonyms":["PRIMEUR"]
+},
+      {
+ "value": "PB1314.23",       
+"synonyms":["TECHEDGE"]
+},
+      {
+ "value": "PB1314.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1314.3",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1314.4",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1314.5",       
+"synonyms":["ATIVAS"]
+},
+      {
+ "value": "PB1314.6",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1314.9",       
+"synonyms":["T-SYSTEMS"]
+},
+      {
+ "value": "PB1314.12",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1314.13",       
+"synonyms":["CAPGEMINI"]
+},
+      {
+ "value": "PB1314.16",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1314.20",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1314.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1315.2",       
+"synonyms":["MICROSOFT"]
+},
+      {
+ "value": "PB1315.1",       
+"synonyms":["DIVERSOS"]
+},
+      {
+ "value": "PB1316.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1317.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1317.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1317.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1317.5",       
+"synonyms":["HW"]
+},
+      {
+ "value": "PB1317.6",       
+"synonyms":["MANAGEMENT AND GOVERNANCE NETWORK"]
+},
+      {
+ "value": "PB1317.7",       
+"synonyms":["HW"]
+},
+      {
+ "value": "PB1317.8",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1317.9",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1317.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1318.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1319.1",       
+"synonyms":["TBD"]
+},
+      {
+ "value": "PB1320.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1321.2",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1321.1",       
+"synonyms":["FOURSYS"]
+},
+      {
+ "value": "PB1322.15",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1322.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1322.3",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1322.4",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1322.5",       
+"synonyms":["VETTA"]
+},
+      {
+ "value": "PB1322.6",       
+"synonyms":["SQUADRA"]
+},
+      {
+ "value": "PB1322.7",       
+"synonyms":["AVENUE CODE"]
+},
+      {
+ "value": "PB1322.8",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1322.12",       
+"synonyms":["TBD"]
+},
+      {
+ "value": "PB1322.16",       
+"synonyms":["TAKE"]
+},
+      {
+ "value": "PB1323.1",       
+"synonyms":["CONSUNTIVO"]
+},
+      {
+ "value": "PB1325.2",       
+"synonyms":["XEROX"]
+},
+      {
+ "value": "PB1325.3",       
+"synonyms":["XEROX"]
+},
+      {
+ "value": "PB1326.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1327.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1328.2",       
+"synonyms":["LEVEL 3"]
+},
+      {
+ "value": "PB1328.1",       
+"synonyms":["BRITISH TELECOM"]
+},
+      {
+ "value": "PB1330.1",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1331.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1331.3",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1331.4",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1331.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1332.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1332.3",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1504.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1506.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1508.1",       
+"synonyms":["IBM E DIVERSOS"]
+},
+      {
+ "value": "PB1519.1",       
+"synonyms":["RH E OUTROS)"]
+},
+      {
+ "value": "PB1520.1",       
+"synonyms":["FCA PARTICIPAÇÕES"]
+},
+      {
+ "value": "PB1525.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1526.2",       
+"synonyms":["TCS"]
+},
+      {
+ "value": "PB1526.1",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1528.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1529.1",       
+"synonyms":["HG CODE"]
+},
+      {
+ "value": "PB1531.2",       
+"synonyms":["JDA"]
+},
+      {
+ "value": "PB1531.3",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1531.4",       
+"synonyms":["EXTA"]
+},
+      {
+ "value": "PB1531.5",       
+"synonyms":["QDAS"]
+},
+      {
+ "value": "PB1531.1",       
+"synonyms":["MINITAB"]
+},
+      {
+ "value": "PB1532.10",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1532.2",       
+"synonyms":["ENGINEERING DO BRASIL"]
+},
+      {
+ "value": "PB1532.3",       
+"synonyms":["GBA"]
+},
+      {
+ "value": "PB1532.4",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1532.5",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1532.6",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1532.7",       
+"synonyms":["ION E SSE)"]
+},
+      {
+ "value": "PB1532.8",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1532.9",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1532.1",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1533.2",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1533.3",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1533.4",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1533.5",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1533.6",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1533.7",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1533.8",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1533.9",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1533.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1539.2",       
+"synonyms":["ASI DATAMYTE"]
+},
+      {
+ "value": "PB1539.1",       
+"synonyms":["ENGINEERING DO BRASIL"]
+},
+      {
+ "value": "PB1541.1",       
+"synonyms":["HEAD"]
+},
+      {
+ "value": "PB1542.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1543.2",       
+"synonyms":["SÊNIOR"]
+},
+      {
+ "value": "PB1543.1",       
+"synonyms":["SÊNIOR"]
+},
+      {
+ "value": "PB1544.2",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1544.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1546.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1548.2",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1548.1",       
+"synonyms":["EAM SISTEMAS"]
+},
+      {
+ "value": "PB1549.2",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1549.3",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1549.4",       
+"synonyms":["T-SYSTEMS"]
+},
+      {
+ "value": "PB1549.5",       
+"synonyms":["DI2S"]
+},
+      {
+ "value": "PB1549.6",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1549.7",       
+"synonyms":["TCS"]
+},
+      {
+ "value": "PB1549.8",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1549.9",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1549.10",       
+"synonyms":["DI2S"]
+},
+      {
+ "value": "PB1549.11",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1549.12",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1549.13",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1549.1",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1557.1",       
+"synonyms":["DIVERSOS"]
+},
+      {
+ "value": "PB1559.2",       
+"synonyms":["DIVERSOS"]
+},
+      {
+ "value": "PB1559.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1566.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1566.1",       
+"synonyms":["QLIKTECH"]
+},
+      {
+ "value": "PB1567.1",       
+"synonyms":["TATA CONSULTANCY"]
+},
+      {
+ "value": "PB1570.2",       
+"synonyms":["EVOLUTIVAS GLOBAIS E KERNEL"]
+},
+      {
+ "value": "PB1570.3",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1570.4",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1570.1",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1572.2",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1572.3",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1572.4",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1572.5",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1572.1",       
+"synonyms":["ACCENTURE"]
+},
+      {
+ "value": "PB1575.2",       
+"synonyms":["BRASOFTWARE"]
+},
+      {
+ "value": "PB1576.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1576.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1576.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1577.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1579.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1579.3",       
+"synonyms":["CABEAMENTO"]
+},
+      {
+ "value": "PB1579.4",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1579.1",       
+"synonyms":["APARELHOS E INTERFACE CELULAR"]
+},
+      {
+ "value": "PB1581.2",       
+"synonyms":["VIVO"]
+},
+      {
+ "value": "PB1581.3",       
+"synonyms":["OI (TELEMAR)"]
+},
+      {
+ "value": "PB1581.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1582.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1582.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1583.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1583.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1586.2",       
+"synonyms":["FGP"]
+},
+      {
+ "value": "PB1586.1",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1589.1",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1590.1",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1591.2",       
+"synonyms":["REPLY"]
+},
+      {
+ "value": "PB1598.2",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1598.1",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1604.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1605.02",       
+"synonyms":["XEROX"]
+},
+      {
+ "value": "PB1605.1",       
+"synonyms":["LEXMARK"]
+},
+      {
+ "value": "PB1607.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1607.3",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1607.4",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1607.5",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1607.6",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1607.7",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1607.1",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1608.2",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1608.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1612.2",       
+"synonyms":["EMC"]
+},
+      {
+ "value": "PB1612.1",       
+"synonyms":["HP"]
+},
+      {
+ "value": "PB1613.2",       
+"synonyms":["BRASOFTWARE"]
+},
+      {
+ "value": "PB1613.3",       
+"synonyms":["IT-ONE"]
+},
+      {
+ "value": "PB1613.4",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1613.5",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1613.6",       
+"synonyms":["PRIMEUR"]
+},
+      {
+ "value": "PB1613.7",       
+"synonyms":["TBD"]
+},
+      {
+ "value": "PB1613.1",       
+"synonyms":["WESTCON"]
+},
+      {
+ "value": "PB1614.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1614.1",       
+"synonyms":["FORCE ONE"]
+},
+      {
+ "value": "PB1617.1",       
+"synonyms":["FCA ITÁLIA"]
+},
+      {
+ "value": "PB1618.1",       
+"synonyms":["FCA ITEM"]
+},
+      {
+ "value": "PB1619.2",       
+"synonyms":["NPO"]
+},
+      {
+ "value": "PB1619.1",       
+"synonyms":["GERADOR"]
+},
+      {
+ "value": "PB1622.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1622.1",       
+"synonyms":["MANUTENÇÃO DE SALAS DE REUNIÃO"]
+},
+      {
+ "value": "PB1623.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1625.2",       
+"synonyms":["XEROX"]
+},
+      {
+ "value": "PB1630.4",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1630.3",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1630.2",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1630.1",       
+"synonyms":["HP FINANCIAL"]
+},
+      {
+ "value": "PB1632.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1716.2",       
+"synonyms":["SMARTTECH"]
+},
+      {
+ "value": "PB1716.3",       
+"synonyms":["GAMMA"]
+},
+      {
+ "value": "PB1716.4",       
+"synonyms":["ETAS"]
+},
+      {
+ "value": "PB1716.5",       
+"synonyms":["OPENCADD"]
+},
+      {
+ "value": "PB1716.6",       
+"synonyms":["CD-ADAPCO"]
+},
+      {
+ "value": "PB1716.7",       
+"synonyms":["ALTAIR ENGINEERING"]
+},
+      {
+ "value": "PB1716.8",       
+"synonyms":["CDH AG CAE SERVICES"]
+},
+      {
+ "value": "PB1716.9",       
+"synonyms":["GAMMA"]
+},
+      {
+ "value": "PB1716.10",       
+"synonyms":["BETA"]
+},
+      {
+ "value": "PB1716.11",       
+"synonyms":["SIEMENS"]
+},
+      {
+ "value": "PB1716.12",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1716.13",       
+"synonyms":["ETAS"]
+},
+      {
+ "value": "PB1716.14",       
+"synonyms":["MBTECH"]
+},
+      {
+ "value": "PB1716.15",       
+"synonyms":["ALTAIR ENGINEERING"]
+},
+      {
+ "value": "PB1716.16",       
+"synonyms":["SMARTTECH"]
+},
+      {
+ "value": "PB1716.17",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1716.18",       
+"synonyms":["MSC BRASIL"]
+},
+      {
+ "value": "PB1716.19",       
+"synonyms":["CONTECS ENGINEERING"]
+},
+      {
+ "value": "PB1716.20",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1716.21",       
+"synonyms":["DSA SYSTEMS"]
+},
+      {
+ "value": "PB1716.22",       
+"synonyms":["REACTIVE SYSTEM"]
+},
+      {
+ "value": "PB1716.23",       
+"synonyms":["ENSOFT"]
+},
+      {
+ "value": "PB1716.24",       
+"synonyms":["MEES"]
+},
+      {
+ "value": "PB1716.25",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1716.26",       
+"synonyms":["DSPACE"]
+},
+      {
+ "value": "PB1716.27",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1716.28",       
+"synonyms":["MBTECH"]
+},
+      {
+ "value": "PB1716.29",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1716.30",       
+"synonyms":["VECTOR INFORMATIK"]
+},
+      {
+ "value": "PB1716.31",       
+"synonyms":["ETAS"]
+},
+      {
+ "value": "PB1716.32",       
+"synonyms":["VECTOR INFORMATIK"]
+},
+      {
+ "value": "PB1716.33",       
+"synonyms":["MBTECH"]
+},
+      {
+ "value": "PB1716.34",       
+"synonyms":["WIND RIVER"]
+},
+      {
+ "value": "PB1716.35",       
+"synonyms":["VECTOR INFORMATIK"]
+},
+      {
+ "value": "PB1716.36",       
+"synonyms":["OPENCADD"]
+},
+      {
+ "value": "PB1716.37",       
+"synonyms":["VECTOR INFORMATIK"]
+},
+      {
+ "value": "PB1716.38",       
+"synonyms":["DEP"]
+},
+      {
+ "value": "PB1716.39",       
+"synonyms":["OPENCADD"]
+},
+      {
+ "value": "PB1716.1",       
+"synonyms":["ETAS"]
+},
+      {
+ "value": "PB1717.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1717.3",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1717.1",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1741.1",       
+"synonyms":["HEAD"]
+},
+      {
+ "value": "PB1776.2",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1776.3",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1776.1",       
+"synonyms":["STEFANINI"]
+},
+      {
+ "value": "PB1781.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1781.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1781.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1782.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1782.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1782.4",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1782.5",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1782.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1783.2",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1783.3",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1783.4",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1783.1",       
+"synonyms":["BT"]
+},
+      {
+ "value": "PB1807.2",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1807.3",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1807.1",       
+"synonyms":["N&C"]
+},
+      {
+ "value": "PB1814.2",       
+"synonyms":["IBM"]
+},
+      {
+ "value": "PB1814.3",       
+"synonyms":["IBM/NPO"]
+},
+      {
+ "value": "PB1814.4",       
+"synonyms":["IBM/NPO"]
+},
+      {
+ "value": "PB1814.5",       
+"synonyms":["IBM/NPO"]
+},
+      {
+ "value": "PB1814.1",       
+"synonyms":["IBM/NPO"]
+},
+      {
+ "value": "PB1815.1",       
+"synonyms":["CHRYSLER"]
+},
+      {
+ "value": "PB1823.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1213.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1203.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1279.11",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1353",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1355",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1356",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1354.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1354.2",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1354.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1355.1",       
+"synonyms":["STERLING CONNECT"]
+},
+      {
+ "value": "PB1355.2",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1355.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1355.4",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1355.5",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1355.6",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1356.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1356.2",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1356.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1591.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1291.30",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1291.31",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1249.25",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1208.28",       
+"synonyms":["BHTEC"]
+},
+      {
+ "value": "PB1231.20",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1231.21",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1231.22",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1231.23",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1231.24",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1232.19",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1232.20",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1653.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1208.48",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1223.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1267.7",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1206.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1210.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1329.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1220.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1265.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1351.1",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1526.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1653.7",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1653.6",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1653.5",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1653.4",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1653.3",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1653.2",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1216.67",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1716.40",       
+"synonyms":["AVL"]
+},
+      {
+ "value": "PB1232.21",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1232.22",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1232.23",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1209.8",       
+"synonyms":[""]
+},
+      {
+ "value": "PB1209.9",       
+"synonyms":[""]
+}]
+}

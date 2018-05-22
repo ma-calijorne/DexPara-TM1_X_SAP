@@ -1,0 +1,4 @@
+Quantidade de Linhas a serem Analizadas: 1192
+Quantidade de Linhas Historicas: 2619
+Quantidade de Matches Realizados atraves de dados historicos: 319
+Quantidade de Linhas a serem tratadas atraves do processo de analise de palavras: 319
